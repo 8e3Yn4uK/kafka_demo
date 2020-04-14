@@ -1,0 +1,11 @@
+{
+  "id": "78",
+  "name": "Jack",
+  "addres": {
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "street": "Shevchenka",
+    "homeNumber": "1",
+    "flatNumber": "74"
+  }
+}

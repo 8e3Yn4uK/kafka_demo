@@ -1,0 +1,1 @@
+"C:\Program Files\Git\mingw64\bin\curl" "http://localhost:8080/msg" -i -X POST -H "Content-Type: application/json;charset=UTF-8" -d @"D:\Idea Projects\kafka_demo\src\test\curl-tests\request.json"
